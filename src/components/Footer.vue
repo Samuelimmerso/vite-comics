@@ -2,9 +2,11 @@
 export default {
   data() {
     return {
-      title: "Header"
+      title: "Footer"
     }
   }
+
+  
 };
 </script>
 
